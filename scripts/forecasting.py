@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 # =====================================================
 
 df = pd.read_excel(
-    r"D:\pythoncoding\Final_year_project\clean_disease_trends_dataset.xlsx"
+    r"D:\pythoncoding\Final_year_project\data\processed\clean_disease_trends_dataset.xlsx"
 )
 # =====================================================
 # CLEAN DATA

@@ -1,6 +1,6 @@
 import pandas as pd
 #import dataset
-df=pd.read_excel("D:\\pythoncoding\Final_year_project\\data\\raw\\Patient flow and Disease trend A case study of Medical Department DHQ hospital Timergara.xlsx",header=0)
+df=pd.read_excel("D:\\pythoncoding\\Final_year_project\\data\\raw\\Patient flow and Disease trend A case study of Medical Department DHQ hospital Timergara.xlsx",header=0)
 
 #formatting of date and text columns:
 date_columns=("Date_of_admission","Date_of_discharge")

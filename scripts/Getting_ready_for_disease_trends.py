@@ -3,7 +3,7 @@ import pandas as pd
 # -------------------------------
 # Step 1: Load dataset
 # -------------------------------
-df = pd.read_excel("D:\\pythoncoding\\Final_year_project\\Patient flow and Disease trend A case study of DHQ hospital Timergara.xlsx")
+df = pd.read_excel("D:\\pythoncoding\\Final_year_project\\data\\processed\\Patient flow and Disease trend A case study of DHQ hospital Timergara.xlsx")
 
 df['Date_of_admission'] = pd.to_datetime(df['Date_of_admission'], format="%d-%b-%y", errors="coerce").dt.date
 

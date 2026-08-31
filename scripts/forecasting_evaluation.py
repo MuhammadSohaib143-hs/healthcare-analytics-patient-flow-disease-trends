@@ -8,7 +8,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 # =====================================================
 
 df = pd.read_excel(
-    r"D:\pythoncoding\Final_year_project\clean_disease_trends_dataset.xlsx"
+    r"D:\pythoncoding\Final_year_project\data\processed\clean_disease_trends_dataset.xlsx"
 )
 
 # =====================================================
