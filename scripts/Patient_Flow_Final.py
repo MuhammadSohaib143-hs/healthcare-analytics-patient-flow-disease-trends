@@ -10,7 +10,7 @@ sns.set_style("whitegrid")
 # Load Data
 # =====================================================
 data = pd.read_excel(
-    "D:\\pythoncoding\\Final_year_project\\Patient flow and Disease trend A case study of Medical Department DHQ hospital Timergara.xlsx"
+    "rD:\pythoncoding\Final_year_project\data\processed\Patient flow and Disease trend A case study of Medical Department DHQ hospital Timergara.xlsx"
 )
 data['Date_of_admission'] = pd.to_datetime(data['Date_of_admission'])
 data['Date_of_discharge'] = pd.to_datetime(data['Date_of_discharge'])
