@@ -62,7 +62,7 @@ monthly = (
 # =====================================================
 # FOLDERS
 # =====================================================
-
+'''
 base_folder = "PROPHET_SYSTEM"
 
 data_folder = os.path.join(base_folder, "datasets")
@@ -73,7 +73,7 @@ os.makedirs(base_folder, exist_ok=True)
 os.makedirs(data_folder, exist_ok=True)
 os.makedirs(forecast_folder, exist_ok=True)
 os.makedirs(plot_folder, exist_ok=True)
-
+'''
 # =====================================================
 # MASTER DATASET
 # =====================================================
