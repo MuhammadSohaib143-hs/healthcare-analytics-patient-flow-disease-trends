@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 data = pd.read_excel(
-    "D:\\pythoncoding\\Final_year_project\\Patient flow and Disease trend A case study of Medical Department DHQ hospital Timergara.xlsx"
+    r"D:\pythoncoding\Final_year_project\data\processed\Patient flow and Disease trend A case study of Medical Department DHQ hospital Timergara.xlsx"
 )
 
 # =====================================================
