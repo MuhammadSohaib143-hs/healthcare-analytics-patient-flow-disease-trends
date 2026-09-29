@@ -105,7 +105,7 @@ The project was developed to achieve the following objectives:
 | -------------------- | ------------------------------------------------------ |
 | **Python**           | Data preprocessing, analysis, and forecasting workflow |
 | **Pandas**           | Data cleaning and manipulation                         |
-| **Jupyter Notebook** | Analysis and experimentation                           |
+| **Pycharm**          | Analysis and experimentation                           |
 | **Prophet**          | Time-series forecasting                                |
 | **Scikit-learn**     | Model evaluation metrics                               |
 | **Microsoft Excel**  | Data digitization and initial data preparation         |
